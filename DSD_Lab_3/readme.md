@@ -4,5 +4,5 @@ Contains the RTL, Test Bench, Constraints and Doc files for Lab experiment 3 so 
 
 ##### *Includes*
 
--[RTL Code](./DSD_Lab_3/RTL)
+-[RTL Code](./DSD_Lab_3/RTL/)
 -Lab 3
