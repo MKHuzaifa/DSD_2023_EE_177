@@ -1,8 +1,8 @@
-###***Digital System Design Lab***
+### ***Digital System Design Lab***
 
-Contains the RTL, Test Bench, Constraints and Doc files for all the Lab experiments so far.
+Contains the RTL, Test Bench, Constraints and Doc files for Lab experiment 3 so far.
 
-#####*Includes*
+##### *Includes*
 
--Lab 2
+-[RTL Code](./DSD_Lab_3/RTL)
 -Lab 3
