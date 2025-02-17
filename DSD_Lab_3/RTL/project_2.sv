@@ -20,11 +20,11 @@
 //////////////////////////////////////////////////////////////////////////////////
 module project_2( output x,y , 
       input a,s,d );
- logic not_c,or_1,nand_ad,xor_1; 
+ logic not_d,or_1,nand_as,xor_1; 
 assign not_d = ~d;
 assign or_1 = a|s;
-assign nand_ad = ~(a&d);
-assign xor_1 = (or_1 ^ nand_ad);
+assign nand_as = ~(a&s);
+assign xor_1 = (or_1 ^ nand_as);
 assign y = (or_1 & xor_1);
 assign x =(not_d ^ or_1);
 endmodule
